@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Al Amin Tokder Shoukhin</h1>
-<h3 align="center">A passionate on Problem solving,Artificial Intelligence,Machine learning and Web development</h3>
+<h3 align="center">A passionate on Problem solving,Artificial Intelligence,Machine learning and Web3 Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoukhin1803078&label=Profile%20views&color=0e75b6&style=flat" alt="shoukhin1803078" /> </p>
 
-- 🔭 I’m currently working on [Heart diseases ditection](https://github.com/Shoukhin1803078/Machine-learning-myself-)
+- 🔭 I’m currently working on [Athena(LLM)](https://github.com/Shoukhin1803078/Machine-learning-myself-)
 
-- 🌱 I’m currently learning **AI and Machine learning**
+- 🌱 I’m currently learning **Large Language Model**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-al-amin-tokder-shoukhin-8333001a5/](https://www.linkedin.com/in/md-al-amin-tokder-shoukhin-8333001a5/)
 
