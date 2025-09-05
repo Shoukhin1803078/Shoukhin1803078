@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Large Language Model**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-al-amin-tokder-shoukhin-8333001a5/](https://www.linkedin.com/in/md-al-amin-tokder-shoukhin-8333001a5/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/md-al-amin-tokder)
 
 - 📫 How to reach me **alamintokdercse@gmail.com**
 
